@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   Lebenslauf: "http://tserendondog-bat.github.io/files/lebenslauf.pdf"
   Diplom: "http://tserendondog-bat.github.io/files/Diplom.pdf"
-  Arbeitszeugnisse: "http://tserendondog-bat.github.io/files/zeugniss.pdf"
+  Arbeitszeugnisse: "http://tserendondog-bat.github.io/files/zeugnisse.pdf"
   Arbeitsproben: "http://tserendondog-bat.github.io/files/PR.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
